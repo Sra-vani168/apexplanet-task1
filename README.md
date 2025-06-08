@@ -6,3 +6,6 @@ JavaScript – for adding basic interactivity and functionality.
 Writing clean and structured HTML
 Styling elements with CSS
 Adding simple scripts with JavaScript
+## 🔗 LinkedIn Post
+
+I shared my progress on LinkedIn here:   https://www.linkedin.com/feed/update/urn:li:activity:7337465927417937920/
